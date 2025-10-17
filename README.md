@@ -93,13 +93,13 @@ Users can explore different coffee drinks, get mood-based recommendations, save 
 
 <p align="center">
   <img src="Screenshot-01.png" alt="Intro Screen" width="30%" />
-  <img src="assets/screenshots/menu_screen.jpg" alt="Menu Screen" width="30%" />
-  <img src="assets/screenshots/detail_screen.jpg" alt="Detail Screen" width="30%" />
+  <img src="Screenshot-04.png" alt="Menu Screen" width="30%" />
+  <img src="Screenshot-05.png" alt="Detail Screen" width="30%" />
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/cart_screen.jpg" alt="Cart Screen" width="30%" />
-  <img src="assets/screenshots/payment_screen.jpg" alt="Payment Screen" width="30%" />
+ <img src="Screenshot-06.png" alt="Menu Screen" width="30%" />
+ <img src="Screenshot-07.png" alt="Detail Screen" width="30%" />
 </p>
 
 

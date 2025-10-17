@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CategoryButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:textColor">@color/coffee_dark</item>
+        <item name="strokeColor">@color/coffee_dark</item>
+        <item name="cornerRadius">20dp</item>
+        <item name="android:paddingStart">16dp</item>
+        <item name="android:paddingEnd">16dp</item>
+    </style>
+
+    <style name="CoffeeTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="CoffeeText">
+        <item name="android:textColor">@color/coffee_dark</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="CoffeeText.Title">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="CoffeeText.Description">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/coffee_dark</item>
+    </style>
+
+    <style name="CoffeeText.Price">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/coffee_accent</item>
+    </style>
+
+    <style name="BottomNavigation" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="android:layout_height">48dp</item>
+        <item name="android:background">@color/dark_brown</item>
+        <item name="itemIconTint">@color/coffee_dark</item>
+        <item name="itemTextColor">@color/coffee_dark</item>
+        <item name="elevation">8dp</item>
+    </style>
+</resources>

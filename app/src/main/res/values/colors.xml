@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="coffee_dark">#4A2C2A</color>
+    <color name="coffee_accent">#D4A574</color>
+    <color name="green">#4CAF50</color>
+    <color name="Orange">#ffa500</color>
+    <color name="DarkOrange">#ff8c00</color>
+
+    <color name="cream_background">#FFF8F0</color>
+
+    <!-- 30% Secondary / Coffee Brown -->
+    <color name="coffee_brown">#6B4226</color>
+    <color name="caramel">#C69C72</color>
+    <color name="dark_brown">#4B2E1E</color>
+
+    <!-- 10% Accent / Coral -->
+    <color name="soft_coral">#F28C82</color>
+    <color name="accent_pink">#FF6F61</color>
+
+    <!-- Neutral / Text -->
+    <color name="text_primary">#2D2D2D</color>
+    <color name="text_secondary">#6B4226</color>
+    <color name="text_hint">#9E9E9E</color>
+</resources>
